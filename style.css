@@ -1,0 +1,51 @@
+body{
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+    background:#f4f6f8;
+}
+
+header{
+    background:#0b3d91;
+    color:white;
+    padding:15px 0;
+    text-align:center;
+}
+
+nav{
+    background:#062a63;
+    padding:10px;
+    text-align:center;
+}
+
+nav a{
+    color:white;
+    margin:0 15px;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+.hero{
+    padding:60px 20px;
+    text-align:center;
+    background:white;
+}
+
+.hero h1{
+    color:#0b3d91;
+}
+
+.section{
+    padding:40px 20px;
+    max-width:1000px;
+    margin:auto;
+    background:white;
+    margin-top:20px;
+}
+
+footer{
+    margin-top:30px;
+    background:#0b3d91;
+    color:white;
+    text-align:center;
+    padding:15px;
+}
